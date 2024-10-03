@@ -18,11 +18,11 @@
 
 ### Caso de estudio
 
-Maecenas molestie lacus tincidunt, placerat dolor et, ullamcorper erat. Mauris tortor nisl, ultricies ac scelerisque nec, feugiat in nibh. 
+ El tema que abordaremos será la gestión de una base de datos para una empresa que realiza la venta de indumentaria de la marca Nike. La aplicación que utilizará la base de datos es una aplicación de escritorio.
 
 ### Definición o planteamiento del problema
 
-Pellentesque interdum aliquam magna sit amet rutrum. Nulla aliquam ligula nec quam iaculis dictum. In cursus aliquam cursus. Nullam a sem vel sapien iaculis finibus. Donec aliquam dictum viverra. Etiam ut orci lacus.
+ La empresa necesita una base de datos eficiente que permita registrar y controlar las compras que se realizan, debe también llevar un control preciso de su inventario, para así evitar errores de stock de productos. Además, debe controlar las ventas realizadas para tener un conocimiento de los ingresos obtenidos. Por otro lado, necesita proteger la información sensible en la base de datos.
 
 
 ### Diagrama relacional
@@ -30,36 +30,14 @@ Diagrama relacional del proyecto(https://github.com/constant15/Proyecto_estudio_
 
 ### Diccionario de datos
 
-Acceso al documento [PDF](doc/Diccionariodedatos.pdf) (doc/diccionario_datos.pdf) del diccionario de datos.
-
-
-
-### Desarrollo TEMA 1 "----"
-
-Fusce auctor finibus lectus, in aliquam orci fermentum id. Fusce sagittis lacus ante, et sodales eros porta interdum. Donec sed lacus et eros condimentum posuere. 
-
-> Acceder a la siguiente carpeta para la descripción completa del tema [scripts-> tema_1](script/tema01_nombre_tema)
-
-### Desarrollo TEMA 2 "----"
-
-Proin aliquet mauris id ex venenatis, eget fermentum lectus malesuada. Maecenas a purus arcu. Etiam pellentesque tempor dictum. 
-
-> Acceder a la siguiente carpeta para la descripción completa del tema [scripts-> tema_2](script/tema02_nombre_tema)
-
-... 
-
-
-## CAPÍTULO V: CONCLUSIONES
-
-Nunc sollicitudin purus quis ante sodales luctus. Proin a scelerisque libero, vitae pharetra lacus. Nunc finibus, tellus et dictum semper, nisi sem accumsan ligula, et euismod quam ex a tellus. 
+Acceso al documento [PDF](doc/Diccionariodedatos.pdf)  del diccionario de datos.
 
 
 
 ## BIBLIOGRAFÍA DE CONSULTA
 
- 1. List item
- 2. List item
- 3. List item
- 4. List item
- 5. List item
+1.https://www.youtube.com/watch?v=_yiRnjx222k&list=PLMhqk5T3EuUZ-qagnxCtBRpY-LZybK9Sf
+2.https://www.youtube.com/watch?v=pYBcC5DwJVQ
+3.https://www.youtube.com/watch?v=giqlIGRG0RY&list=PL6kQim6ljTJsL9mC1dE8GDoZmFxtLU_bh
+4.https://www.youtube.com/watch?v=cBwksNxEvNw
 
