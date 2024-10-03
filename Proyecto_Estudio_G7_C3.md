@@ -24,7 +24,15 @@
 
  La empresa necesita una base de datos eficiente que permita registrar y controlar las compras que se realizan, debe también llevar un control preciso de su inventario, para así evitar errores de stock de productos. Además, debe controlar las ventas realizadas para tener un conocimiento de los ingresos obtenidos. Por otro lado, necesita proteger la información sensible en la base de datos.
 
+## CAPITULO II: MARCO CONCEPTUAL O REFERENCIAL
 
+...
+
+## CAPÍTULO III: METODOLOGÍA SEGUIDA 
+
+...
+
+## CAPÍTULO IV: DESARROLLO DEL TEMA / PRESENTACIÓN DE RESULTADOS 
 ### Diagrama relacional
 Diagrama relacional del proyecto(https://github.com/constant15/Proyecto_estudio_BDDl/blob/main/doc/Esquema_relacional_G7_C3.jpg )
 
@@ -33,6 +41,9 @@ Diagrama relacional del proyecto(https://github.com/constant15/Proyecto_estudio_
 Acceso al documento [PDF](doc/Diccionariodedatos.pdf)  del diccionario de datos.
 
 
+## CAPÍTULO V: CONCLUSIONES
+
+...
 
 ## BIBLIOGRAFÍA DE CONSULTA
 
