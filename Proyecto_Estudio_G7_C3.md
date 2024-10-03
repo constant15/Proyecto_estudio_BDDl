@@ -7,8 +7,11 @@
 
 **Integrantes**:
 •	Gauna, Natalia Ayelen.
+
 •	Gomez, Alina.
+
 •	Lubke, Hernán.
+
 •	Olivos Battestin, Santiago Nicolas. 
 
 
