@@ -48,7 +48,10 @@ Acceso al documento [PDF](Diccionario_de_datos.pdf)  del diccionario de datos.
 ## BIBLIOGRAFÍA DE CONSULTA
 
 1.https://www.youtube.com/watch?v=_yiRnjx222k&list=PLMhqk5T3EuUZ-qagnxCtBRpY-LZybK9Sf
+
 2.https://www.youtube.com/watch?v=pYBcC5DwJVQ
+
 3.https://www.youtube.com/watch?v=giqlIGRG0RY&list=PL6kQim6ljTJsL9mC1dE8GDoZmFxtLU_bh
+
 4.https://www.youtube.com/watch?v=cBwksNxEvNw
 
