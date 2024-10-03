@@ -6,6 +6,7 @@
 **Asignatura**: Bases de Datos I (FaCENA-UNNE)
 
 **Integrantes**:
+
 •	Gauna, Natalia Ayelen.
 
 •	Gomez, Alina.
