@@ -30,7 +30,8 @@ Diagrama relacional del proyecto(https://github.com/constant15/Proyecto_estudio_
 
 ### Diccionario de datos
 
-Acceso al documento [PDF](doc/Diccionario de datos.pdf) del diccionario de datos.
+Acceso al documento [PDF](doc/Diccionariodedatos.pdf) (doc/diccionario_datos.pdf) del diccionario de datos.
+
 
 
 ### Desarrollo TEMA 1 "----"
