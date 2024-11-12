@@ -100,7 +100,6 @@ create table COMPRA(
 	IdCompra int identity,
 	IdUsuario int not null,
 	IdProveedor int not null,
-	Documento varchar(50) not null,
 	TipoDocumento varchar(50) not null,
 	NumeroDocumento varchar(50) not null,
 	MontoTotal decimal(10,2),
