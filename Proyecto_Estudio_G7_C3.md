@@ -11,7 +11,7 @@
 
 •	Gomez, Alina.
 
-•	Lubke, Hernán.
+•	Lubke, Hernán Rafael.
 
 •	Olivos Battestin, Santiago Nicolas. 
 
