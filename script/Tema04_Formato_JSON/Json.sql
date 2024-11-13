@@ -10,12 +10,22 @@ CREATE TABLE Usuarios (
     ID INT IDENTITY PRIMARY KEY,
     DatosDelUsuario NVARCHAR(MAX) -- Columna que va a almacenar los datos en JSON
 );
+/*
+INSERT INTO Usuarios (DatosDelUsuario) 
+VALUES
+('{
+    "Nombre": "Carlos",
+    "Edad": "42",
+    "Ciudad": "Corrientes",
+    "Correo": "carlos@example.com"
+}');*/
+
 
 -------------Consultas--------------
 
 --Consulta para datos anidados 
 SELECT 
-    JSON_QUERY(DatosDelUsuario, '$') AS DatosCompletos --JSON_QUERY es útil para obtener un objeto o arreglo JSON completo dentro de un JSON más grande
+    JSON_QUERY(DatosDelUsuario, '$') AS DatosCompletos --JSON_QUERY es Ãºtil para obtener un objeto o arreglo JSON completo dentro de un JSON mÃ¡s grande
 FROM Usuarios;
 
 
@@ -31,7 +41,7 @@ SELECT
     JSON_VALUE(DatosDelUsuario, '$.Nombre') AS Nombre,
     JSON_VALUE(DatosDelUsuario, '$.Ciudad') AS Ciudad
 FROM Usuarios
-WHERE JSON_VALUE(DatosDelUsuario, '$.Ciudad') = 'Córdoba';
+WHERE JSON_VALUE(DatosDelUsuario, '$.Ciudad') = 'CÃ³rdoba';
 
 
 
@@ -45,7 +55,7 @@ CROSS APPLY OPENJSON(DatosDelUsuario) AS jsonData; --OPENJSON convierte el conte
 
 
 
---Actualización de datos
+--ActualizaciÃ³n de datos
 UPDATE Usuarios
 SET DatosDelUsuario = JSON_MODIFY(DatosDelUsuario, '$.Ciudad', 'Jujuy')
 WHERE id = 5;
